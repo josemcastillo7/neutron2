@@ -23,4 +23,10 @@ java fundamentals
 
 Tracing 
 1. 22
-2. 
+2. 4
+3. 5
+4. 30
+5. 5
+6. n/a
+7. n/a
+8. 
