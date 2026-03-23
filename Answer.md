@@ -7,7 +7,7 @@ java fundamentals
 6. D
 7. C
 8. C
-9. c
+9. A
 10. C
 11. C
 12. c
@@ -15,7 +15,7 @@ java fundamentals
 14. D
 15. B
 16. B
-17. A
+17. D
 18. B
 19. B
 20. D
